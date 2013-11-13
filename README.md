@@ -1,8 +1,8 @@
 ###Temboo Arduino Yún Examples
 
-The Temboo SDK provides easy access to 100+ APIs, databases and more from the Arduino Yún, bringing the physical and digital worlds closer together. 
+The Temboo SDK provides easy access to 100+ APIs, databases and more from the Arduino Yún, making it simple to bring the physical and digital worlds closer together. 
 
-Each example in this repo is a separate simple app that demonstrates how to use the Temboo Arduino Yún SDK to interact with different 3rd party APIs and services. 
+Each example in this repo is a separate simple Arduino project that demonstrates how to use the Temboo Arduino Yún SDK to interact with different 3rd party APIs and services. 
 
 To get learn more and get started with Temboo & Arduino, check out [temboo.com/arduino](https://temboo.com/arduino).
 
