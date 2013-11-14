@@ -1,7 +1,7 @@
 Remote Control for Arduino Yún
 ======================
 
-This folder contains source code for the Arduino Yún project shown in this [Temboo demo video](http://blog.temboo.com/post/66985143268/control-an-arduino-yun-with-your-phone-using-temboo). The video demonstrates how you can remotely control an 
+This folder contains source code for the Arduino Yún project discussed in this [blog post](http://blog.temboo.com/post/66985143268/control-an-arduino-yun-with-your-phone-using-temboo). The video demonstrates how you can remotely control an 
 Arduino Yún from your mobile phone. The project uses a light dependent resistor (photocell) to read the light level
 in a room. When the Yún senses that the light level has changed by 30% or more, it calls the user and asks if they'd like to turn on the LED connected to pin 13. It also logs each significant light change event to a Google Spreadsheet. All of this is achieved by the Temboo SDK that ships onboard the Yún. 
 
