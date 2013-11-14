@@ -76,7 +76,7 @@ void loop(){
   
   // when the light level dips by 30%
   if (LDRReading < (BASELINE * .7)) {
-    Serial.println("\nUh-oh! It's getting dark - better make a call. Dialling now...\n");
+    Serial.println("\nUh-oh! It's getting dark - better make a call. Dialing now...\n");
     digitalWrite(led, LOW); // turn off the light in case it's on from a previous event
     
     // if the user chooses option 1 when they receive the phone call
