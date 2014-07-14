@@ -20,7 +20,7 @@
 // Note that for additional security and reusability, you could
 // use #define statements to specify these values in a .h file.
 
-// you NEXMO API key & secret
+// your NEXMO API key & secret
 const String NEXMO_API_KEY = "xxxxxxxxx";
 const String NEXMO_API_SECRET = "xxxxxxxxx";
 
